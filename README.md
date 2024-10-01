@@ -32,6 +32,9 @@
 * [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
 * [Pandas’ groupby explained in detail](https://towardsdatascience.com/pandas-groupby-aggregate-transform-filter-c95ba3444bbb)
 * [Pandas - IO Tools](https://pandas.pydata.org/docs/user_guide/io.html#io-tools-text-csv-hdf5)
+* [Pandas - How to create new columns derived from existing columns?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/05_add_columns.html#how-to-create-new-columns-derived-from-existing-columns)
+* [Pandas API](https://pandas.pydata.org/docs/reference/index.html)
+* [Python para análise de dados](https://www.google.com.br/books/edition/Python_para_an%C3%A1lise_de_dados/Oj5FDwAAQBAJ?hl=pt-BR&gbpv=0)
 
 [Ampliando a análise com Describe](https://www.alura.com.br/artigos/ampliando-a-analise-com-describe)
 
