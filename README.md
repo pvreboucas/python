@@ -31,6 +31,7 @@
 
 * [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
 * [Pandas’ groupby explained in detail](https://towardsdatascience.com/pandas-groupby-aggregate-transform-filter-c95ba3444bbb)
+* [Pandas - IO Tools](https://pandas.pydata.org/docs/user_guide/io.html#io-tools-text-csv-hdf5)
 
 [Ampliando a análise com Describe](https://www.alura.com.br/artigos/ampliando-a-analise-com-describe)
 
