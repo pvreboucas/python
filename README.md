@@ -35,6 +35,7 @@
 * [Pandas - How to create new columns derived from existing columns?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/05_add_columns.html#how-to-create-new-columns-derived-from-existing-columns)
 * [Pandas API](https://pandas.pydata.org/docs/reference/index.html)
 * [Python para análise de dados](https://www.google.com.br/books/edition/Python_para_an%C3%A1lise_de_dados/Oj5FDwAAQBAJ?hl=pt-BR&gbpv=0)
+* [Pandas - How to create new columns derived from existing columns?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/05_add_columns.html#how-to-create-new-columns-derived-from-existing-columns)
 
 [Ampliando a análise com Describe](https://www.alura.com.br/artigos/ampliando-a-analise-com-describe)
 
