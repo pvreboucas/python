@@ -29,6 +29,9 @@
 
 [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
 
+* [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
+* [Pandas’ groupby explained in detail](https://towardsdatascience.com/pandas-groupby-aggregate-transform-filter-c95ba3444bbb)
+
 [Ampliando a análise com Describe](https://www.alura.com.br/artigos/ampliando-a-analise-com-describe)
 
 [Manipulação de string com Pandas](https://cursos.alura.com.br/extra/alura-mais/manipulacao-de-strings-com-pandas-c2003)
