@@ -20,6 +20,13 @@
 
 [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
 
+* [Curso Online Data Analysis: previsões com Google Sheets](https://cursos.alura.com.br/course/data-analysis-previsoes-google-sheets)
+* [Curso Online Regressão linear: testando relações e prevendo resultados](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear)
+* [Curso Online Regressão Linear: técnicas avançadas de modelagem](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel)
+* [Curso Online Estatística com Python: Correlação e Regressão](https://cursos.alura.com.br/course/estatistica-correlacao-regressao)
+* [Aprenda mais sobre Numpy](https://numpy.org/pt/learn/)
+* [Numerical Python](https://www.google.com.br/books/edition/Numerical_Python/AzKBDwAAQBAJ?hl=pt-BR&gbpv=0)
+
 [Pandas: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
 
 [Ampliando a análise com Describe](https://www.alura.com.br/artigos/ampliando-a-analise-com-describe)
