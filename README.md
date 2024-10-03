@@ -18,6 +18,20 @@
 
 [Exceções em Python](https://realpython.com/python-exceptions/)
 
+[Engenharia de Dados: o que é, o que faz e um Guia completo](https://www.alura.com.br/artigos/engenharia-dados)
+
+[WSL: como executar programas e comandos Linux no Windows?](https://www.alura.com.br/artigos/wsl-executar-programas-comandos-linux-no-windows)
+
+[Ambientes virtuais em Python](https://www.alura.com.br/artigos/ambientes-virtuais-em-python)
+
+[Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
+
+[SQL e NoSQL: trabalhando com bancos relacionais e não relacionais](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
+
+[Bancos de Dados na Nuvem: conhecendo as soluções AWS, Azure e GCP](https://www.alura.com.br/artigos/bancos-dados-nuvem)
+
+[O que é um pipeline de dados?](https://www.alura.com.br/artigos/o-que-pipeline-dados)
+
 [Numpy: trabalhando computação científica com Python](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
 
 * [Curso Online Data Analysis: previsões com Google Sheets](https://cursos.alura.com.br/course/data-analysis-previsoes-google-sheets)
