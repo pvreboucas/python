@@ -26,6 +26,8 @@
 
 [Python: utilizando POO na Engenharia de Dados](https://www.alura.com.br/artigos/python-poo-engenharia-dados)
 
+[Python Request Quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
+
 [SQL e NoSQL: trabalhando com bancos relacionais e não relacionais](https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais)
 
 [Bancos de Dados na Nuvem: conhecendo as soluções AWS, Azure e GCP](https://www.alura.com.br/artigos/bancos-dados-nuvem)
