@@ -58,3 +58,5 @@
 [Manipulação de string com Pandas](https://cursos.alura.com.br/extra/alura-mais/manipulacao-de-strings-com-pandas-c2003)
 
 [Conclusão Formação Python para data science - Youtube](https://youtu.be/KWg1Wxew0Ls?si=KsfO5Aq5mVVufQMg)
+
+
