@@ -57,6 +57,9 @@
 
 [Manipulação de string com Pandas](https://cursos.alura.com.br/extra/alura-mais/manipulacao-de-strings-com-pandas-c2003)
 
+* [Principais casos de uso de Regex para tratamento de dados](https://www.alura.com.br/artigos/principais-casos-uso-regex-para-tratamento-dados)
+* [regex101.com](https://regex101.com/)
+
 [Conclusão Formação Python para data science - Youtube](https://youtu.be/KWg1Wxew0Ls?si=KsfO5Aq5mVVufQMg)
 
 
