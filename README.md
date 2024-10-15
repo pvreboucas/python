@@ -60,6 +60,9 @@
 * [Principais casos de uso de Regex para tratamento de dados](https://www.alura.com.br/artigos/principais-casos-uso-regex-para-tratamento-dados)
 * [regex101.com](https://regex101.com/)
 
+[Python datetime: Como faço para definir data e hora em Python?](https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python)
+* [Biblioteca datetime](https://docs.python.org/3/library/datetime.html)
+
 [Conclusão Formação Python para data science - Youtube](https://youtu.be/KWg1Wxew0Ls?si=KsfO5Aq5mVVufQMg)
 
 
