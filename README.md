@@ -63,6 +63,8 @@
 [Python datetime: Como faço para definir data e hora em Python?](https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python)
 * [Biblioteca datetime](https://docs.python.org/3/library/datetime.html)
 
+[Pandas Limpeza e Tratamento de Dados Cheat Sheet](https://cdn3.gnarususercontent.com.br/2929-pandas/Cheat+Sheet+-+Pandas_Limpeza+e+tratamento+de+dados.pdf)
+
 [Conclusão Formação Python para data science - Youtube](https://youtu.be/KWg1Wxew0Ls?si=KsfO5Aq5mVVufQMg)
 
 
